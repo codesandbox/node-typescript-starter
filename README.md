@@ -6,7 +6,9 @@ node typescript project starter.
 
 - [typescript](https://www.typescriptlang.org/) @3.6.3
 
-- [eslint typescript plugin](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin) @2.3.0
+- [eslint](https://eslint.org/docs/user-guide/getting-started) @6.5.0
+
+- [eslint typescript plugin](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin) @2.3.1
 
 - [eslint prettier plugin](https://prettier.io/docs/en/integrating-with-linters.html#recommended-configuration) @3.1.1
 
