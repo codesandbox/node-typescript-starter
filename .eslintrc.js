@@ -8,6 +8,7 @@ module.exports = {
     'plugin:prettier/recommended',
   ],
   rules: {
+    'prettier/prettier': 'warn',
     // '@typescript-eslint/camelcase': 'off',
     // '@typescript-eslint/explicit-function-return-type': 'off',
     // '@typescript-eslint/no-explicit-any': 'off',
