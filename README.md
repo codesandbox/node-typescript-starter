@@ -1,6 +1,6 @@
 # What?
 
-node typescript project starter.
+Node.js TypeScript project starter.
 
 # Included
 
